@@ -3,7 +3,7 @@
 ?>
 <div id="navbar">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="<?php echo $MAIN_URL;?>">Zapardiente</a>
+    <a class="navbar-brand" href="./index.php">Zapardiente</a>
     <div class="collapse navbar-collapse">
         <ul class="navbar-nav">
             <li class="nav-item <?php if($nav_items[count($nav_items) - 1] == 'index.php'){echo "active";}?>">
